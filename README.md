@@ -6,7 +6,7 @@
 
 I'm a Full-Stack Developer from Guatemala 🇬🇹 with a deep passion for the universe's great questions. My goal is to bridge the world of software development with the realm of applied physics, using code as a powerful tool for discovery and scientific research. I believe technology can not only build the future, but also help us understand our reality.
 
-* 🌐 🌐 Explore more about me on my personal site [personal website](https://portfolio-elux.netlify.app/)
+* 🌐 Explore more about me on my personal site [personal website](https://portfolio-elux.netlify.app/)
 * 📫 You can reach me at [emiliojo.lux@gmail.com](mailto:emiliojo.lux@gmail.com)
 ### GitHub Stats
 
