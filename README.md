@@ -4,14 +4,10 @@
 
 ## Hey, I'm Emilio! 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-emiliojo.lux-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:emiliojo.lux@gmail.com)](mailto:emiliojo.lux@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Elux-2021572?label=Follow&style=social)](https://github.com/Elux-2021572) 
+I'm a Full-Stack Developer from Guatemala 🇬🇹 with a deep passion for the universe's great questions. My goal is to bridge the world of software development with the realm of applied physics, using code as a powerful tool for discovery and scientific research. I believe technology can not only build the future, but also help us understand our reality.
 
-* I am a Full-Stack Developer from Guatemala 🇬🇹
-* Visit my [personal website](https://portfolio-elux.netlify.app/) 
-* Techstack: `.js`, `.java`, `.jsx`, `.css` 
-* Aspiring **Physicist** passionate about applying code to scientific research 🔭
-
+* 🌐 🌐 Explore more about me on my personal site [personal website](https://portfolio-elux.netlify.app/)
+* 📫 You can reach me at [emiliojo.lux@gmail.com](mailto:emiliojo.lux@gmail.com)
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elux-2021572&theme=dracula)](https://git.io/streak-stats)
@@ -61,9 +57,20 @@
 
 ### Featured Projects
 
+**BankCCI - A Full-Stack Banking Application**
+<p>A comprehensive banking platform built with Node.js, React, and MongoDB, featuring both customer and admin functionality.</p>
 <a href="https://github.com/Duo-developers/frontend_BankCCI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duo-developers&repo=frontend_BankCCI&theme=dracula" />
 </a>
 <a href="https://github.com/Duo-developers/backend_BankCCI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duo-developers&repo=backend_BankCCI&theme=dracula" />
+</a>
+
+**CON-CIENCIA - Scientific Community Platform**
+<p>A scientific blog and academic event platform built with React, Vite and Node.js that connects educators, researchers and science enthusiasts.</p>
+<a href="https://github.com/Duo-developers/frontend_CON-CIENCIA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duo-developers&repo=frontend_CON-CIENCIA&theme=dracula" />
+</a>
+<a href="https://github.com/Duo-developers/backend_CON-CIENCIA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duo-developers&repo=backend_CON-CIENCIA&theme=dracula" />
 </a>
